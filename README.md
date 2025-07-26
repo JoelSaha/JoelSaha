@@ -5,14 +5,14 @@
 ## 📘 Projects
 
 1.  **AI-based Wildfire Prediction and Alert System**  
-   Built an ML-powered wildfire risk prediction system using the Renesas QC-BEKITPOCZ Kit. Designed and deployed a real-time alert system with Node.js and MySQL to notify users of potential wildfires.
+   Built an ML-powered wildfire risk prediction system and deployed a real-time alert system with Node.js and MySQL to notify users of potential wildfires.
 
 
 2.  **ASL Actuating Robotic Hand**  
-   Created a 3D-printed robotic hand capable of translating speech into ASL. Utilized Python and NLP for speech analysis, with real-time motor actuation controlled via the PyFirmata2-Arduino interface.
+   Created a 3D-printed robotic hand capable of translating speech into ASL, with real-time motor actuation controlled.
 
 3.  **Adaptive Cruise Control with STM32**  
-   Developed an embedded adaptive cruise control system using STM32. Employed ultrasonic sensing for object detection and dynamically adjusted DC motor speed using PWM to maintain safe distances, replicating real-world autonomous vehicle behavior.
+   An embedded adaptive cruise control system using STM32, employing sensors for object detection and colllision avoidance, replicating real-world autonomous vehicle behavior.
 
 ## 💻 Languages
 - C  
