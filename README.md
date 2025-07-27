@@ -5,14 +5,14 @@
 ## 📘 Projects
 
 1.  **AI-based Wildfire Prediction and Alert System**  
-   Built an ML-powered wildfire risk prediction system and deployed a real-time alert system with Node.js and MySQL to notify users of potential wildfires.
+   **Technologies:** QCStudio · Python · JavaScript · MySQL · Node.js 
 
 
 2.  **ASL Actuating Robotic Hand**  
-   Created a 3D-printed robotic hand capable of translating speech into ASL, with real-time motor actuation controlled.
+   **Technologies:** Python · NLTK · PyFirmata2 · Arduino  
 
 3.  **Adaptive Cruise Control with STM32**  
-   An embedded adaptive cruise control system using STM32, employing sensors for object detection and colllision avoidance, replicating real-world autonomous vehicle behavior.
+   **Technologies:** STM32CubeIDE · Ultrasonic Sensor · PWM · L298N  
 
 ## 💻 Languages
 - C  
