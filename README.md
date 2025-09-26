@@ -1,6 +1,5 @@
 #  Hello, I'm Joel Saha!
 
- I'm an Electronics and Communication Engineering student passionate about intelligent embedded systems, robotics, and edge AI.
 
 ## 📘 Projects
 
